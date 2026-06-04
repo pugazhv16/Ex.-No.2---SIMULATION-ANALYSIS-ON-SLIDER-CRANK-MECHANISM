@@ -44,10 +44,12 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+<img width="1920" height="1201" alt="image" src="https://github.com/user-attachments/assets/1e040217-06c9-484b-be28-444c361f94ed" />
+## VAD, IC and SFA module
+<img width="1921" height="1201" alt="image" src="https://github.com/user-attachments/assets/9bf5333b-6ae5-4d6f-8582-83ea07adfd24" />
 
-
-### Name:
-### Register Number: 
+### Name:PUGAZH V
+### Register Number: 212225240109
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
